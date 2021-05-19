@@ -1,8 +1,8 @@
 package cn.edu.seu.demo.singleton;
 
 /*
-* 双重检查锁+volatile实现懒汉单例的线程安全
-* */
+ * 双重检查锁+volatile实现懒汉单例的线程安全
+ * */
 public class Singleton3_ {
 
     //private static Singleton3_ instance;
